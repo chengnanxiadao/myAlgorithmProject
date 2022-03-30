@@ -1,0 +1,2 @@
+# myAlgorithmProject
+personal algorithm practice
